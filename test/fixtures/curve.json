@@ -1,0 +1,12 @@
+{
+  "model": "iasp91",
+  "phases": ["P"],
+  "sourcedepthlist": [10.0],
+  "receiverdepthlist": [0.0],
+  "curves": [{
+    "x": "degree180",
+    "y": "time",
+    "description": "P at a source depth of 10.0 kilometers",
+    "segments": [{"x": [0.0, 1.0, 2.0], "y": [0.0, 10.0, 20.0]}]
+  }]
+}

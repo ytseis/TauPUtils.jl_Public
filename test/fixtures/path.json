@@ -1,0 +1,17 @@
+{
+  "model": "ak135",
+  "sourcedepthlist": [0.0],
+  "receiverdepthlist": [0.0],
+  "phases": ["P"],
+  "arrivals": [{
+    "phase": "P",
+    "distdeg": 1.0,
+    "time": 12.0,
+    "rayparam": 10.0,
+    "path": [{
+      "name": "P",
+      "wavetype": "P",
+      "segment": [[0.0, 0.0, 0.0], [1.0, 100.0, 12.0]]
+    }]
+  }]
+}
